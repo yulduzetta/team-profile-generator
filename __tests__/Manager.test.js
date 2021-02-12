@@ -17,7 +17,7 @@ beforeEach(() => {
   );
 });
 
-test("Intern", () => {
+test("Manager", () => {
   expect(manager.name).toBe(mockData.name);
   expect(manager.id).toBe(mockData.id);
   expect(manager.email).toBe(mockData.email);
