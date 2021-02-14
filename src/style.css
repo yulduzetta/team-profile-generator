@@ -3,7 +3,13 @@ body {
     background-color: bisque;
   }
   
-  span{
+  .card-action-wrapper a {
+    text-transform: none !important;
+    margin: 0 !important;
+    color: dodgerblue !important;
+  }
+  
+  span {
     font-family: ui-serif;
   }
   
@@ -20,7 +26,7 @@ body {
   .card-action {
     background: beige !important;
     font-weight: bolder;
-    padding: 5px !important;
+    padding: 5px 2px !important;
   }
   
   .card-content {
@@ -30,11 +36,3 @@ body {
   .card-action-wrapper {
     margin: 7pt;
   }
-  
-  .page-footer {
-    padding: 14px;
-  }
-  .page-footer .container {
-    font-size: larger;
-  }
-  

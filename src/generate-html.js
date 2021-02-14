@@ -16,7 +16,7 @@ const handleManagers = (managers) => {
             <div class="card-action-wrapper">
                 <div class="card-action">
                     <div><span>ID:</span> ${id}</div>
-                    <div><span>Email:</span> ${email}</div>
+                    <div><span>Email:</span> <a href = "mailto:${email}">${email}</a></div>
                     <div><span>Office number:</span> ${officeNumber}</div>
                 </div>
             </div>
@@ -41,8 +41,8 @@ const handleEngineers = (engineers) => {
             <div class="card-action-wrapper">
                 <div class="card-action">
                 <div><span>ID:</span> ${id}</div>
-                <div><span>Email:</span> ${email}</div>
-                <div><span>Gighub:</span> ${github}</div>
+                <div><span>Email:</span> <a href = "mailto:${email}">${email}</a></div>
+                <div><span>Github:</span> <a href="https://github.com/${github}" target="_blank">${github}</a> </div>
                 </div>
             </div>
         </div>
@@ -67,7 +67,7 @@ const handleInterns = (interns) => {
             <div class="card-action-wrapper">
                 <div class="card-action">
                 <div><span>ID:</span> ${id}</div>
-                <div><span>Email:</span> ${email}</div>
+                <div><span>Email:</span> <a href = "mailto:${email}">${email}</a></div>
                 <div><span>School:</span> ${school}</div>
                 </div>
             </div>
@@ -127,12 +127,6 @@ module.exports = (data) => {
           </div>
       </div>
       </div>
-      <footer class="page-footer center-align">
-        <div class="container">
-          © 2021 Next Generation Solutions
-        </div>
-      </footer>
-  
       <!-- Compiled and minified JavaScript -->
       <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
       </body>
