@@ -1,0 +1,40 @@
+body {
+    font-family: "Newsreader", serif;
+    background-color: bisque;
+  }
+  
+  span{
+    font-family: ui-serif;
+  }
+  
+  h5,
+  h6 {
+    color: white;
+    font-weight: bolder;
+  }
+  .nav {
+    height: 80px;
+    line-height: 100px;
+  }
+  
+  .card-action {
+    background: beige !important;
+    font-weight: bolder;
+    padding: 5px !important;
+  }
+  
+  .card-content {
+    padding: 0px 24px !important;
+  }
+  
+  .card-action-wrapper {
+    margin: 7pt;
+  }
+  
+  .page-footer {
+    padding: 14px;
+  }
+  .page-footer .container {
+    font-size: larger;
+  }
+  
