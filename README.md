@@ -1,6 +1,8 @@
 # Team Portfolio Generator ![MIT License](https://img.shields.io/badge/mit-brightgreen) ![Javascript](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 ## Full Demo video can be found [here](https://www.youtube.com/watch?v=rWaPS3RMe-I).
 
+## Sample generated html cane be found [here](https://github.com/yulduzetta/team-profile-generator/blob/master/dist/index.html)
+
 <img width="1438" alt="team-directory-demo" src="https://user-images.githubusercontent.com/13324397/107912085-7278f400-6f23-11eb-9471-ae35cf8dcb5d.png">
 
 ## Description 🤓
