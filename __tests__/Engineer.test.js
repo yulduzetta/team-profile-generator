@@ -17,29 +17,29 @@ beforeEach(() => {
   );
 });
 
-test("Engineer", () => {
+test("creates Engineer object", () => {
   expect(engineer.name).toBe(mockData.name);
   expect(engineer.id).toBe(mockData.id);
   expect(engineer.email).toBe(mockData.email);
   expect(engineer.github).toBe(mockData.github);
 });
 
-test("getName", () => {
+test("returns the expected  name", () => {
   expect(engineer.getName()).toBe(mockData.name);
 });
 
-test("getId", () => {
+test("returns the expected id", () => {
   expect(engineer.getId()).toBe(mockData.id);
 });
 
-test("getEmail", () => {
+test("returns the expected email", () => {
   expect(engineer.getEmail()).toBe(mockData.email);
 });
 
-test("getRole", () => {
+test("returns the expected role", () => {
   expect(engineer.getRole()).toBe("Engineer");
 });
 
-test("getGithub", () => {
+test("returns the expected github user", () => {
   expect(engineer.getGithub()).toBe(mockData.github);
 });

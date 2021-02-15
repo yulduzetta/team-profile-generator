@@ -17,29 +17,29 @@ beforeEach(() => {
   );
 });
 
-test("Intern", () => {
+test("creates Intern object", () => {
   expect(intern.name).toBe(mockData.name);
   expect(intern.id).toBe(mockData.id);
   expect(intern.email).toBe(mockData.email);
   expect(intern.school).toBe(mockData.school);
 });
 
-test("getName", () => {
+test("returns the expecteed name", () => {
   expect(intern.getName()).toBe(mockData.name);
 });
 
-test("getId", () => {
+test("returns the expected id", () => {
   expect(intern.getId()).toBe(mockData.id);
 });
 
-test("getEmail", () => {
+test("returns the expected email", () => {
   expect(intern.getEmail()).toBe(mockData.email);
 });
 
-test("getRole", () => {
+test("returns the expected role", () => {
   expect(intern.getRole()).toBe("Intern");
 });
 
-test("getSchool", () => {
+test("returns the expected school", () => {
   expect(intern.getSchool()).toBe(mockData.school);
 });
