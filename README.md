@@ -1,10 +1,10 @@
 # Team Portfolio Generator ![MIT License](https://img.shields.io/badge/mit-brightgreen) ![Javascript](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-## Full Demo video can be found [here](https://www.youtube.com/watch?v=XXYlFuWEuKI).
+## Full Demo video can be found [here](https://www.youtube.com/watch?v=rWaPS3RMe-I).
 
 <img width="1438" alt="team-directory-demo" src="https://user-images.githubusercontent.com/13324397/107912085-7278f400-6f23-11eb-9471-ae35cf8dcb5d.png">
 
 ## Description 🤓
-Generates Team directory based on user's inputs (watch full demo [here](https://www.youtube.com/watch?v=XXYlFuWEuKI).
+Generates Team directory based on user's inputs (watch full demo [here](https://www.youtube.com/watch?v=rWaPS3RMe-I).
 )
   
 ## Table of Contents 🗒️
@@ -66,6 +66,7 @@ Open github issue under https://github.com/yulduzetta/team-profile-generator/iss
 ```typescript
 npm run test
 ```
+<img width="1079" alt="spec-demo" src="https://user-images.githubusercontent.com/13324397/107912547-4ca01f00-6f24-11eb-9af9-a12141fb5621.png">
 
 ## Questions
 For any questions on this project, or if you want to learn more about me, don't hesitate to:
