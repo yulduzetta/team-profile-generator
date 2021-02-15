@@ -1,4 +1,4 @@
-# Team Portfolio Generator ![MIT License](https://img.shields.io/badge/mit-brightgreen) ![Javascript](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+# Team Profile Generator ![MIT License](https://img.shields.io/badge/mit-brightgreen) ![Javascript](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 ## Full Demo video can be found [here](https://www.youtube.com/watch?v=rWaPS3RMe-I).
 
 ## Sample generated html cane be found [here](https://github.com/yulduzetta/team-profile-generator/blob/master/dist/index.html)
