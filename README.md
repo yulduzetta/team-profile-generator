@@ -1,7 +1,7 @@
 # Team Portfolio Generator ![MIT License](https://img.shields.io/badge/mit-brightgreen) ![Javascript](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 ## Full Demo video can be found [here](https://www.youtube.com/watch?v=XXYlFuWEuKI).
 
-<img width="1440" alt="team-portfolio-demo" src="https://user-images.githubusercontent.com/13324397/107907844-5a50a700-6f1a-11eb-9c4a-16a394fe2473.png">
+<img width="1438" alt="team-directory-demo" src="https://user-images.githubusercontent.com/13324397/107912085-7278f400-6f23-11eb-9471-ae35cf8dcb5d.png">
 
 ## Description 🤓
 Generates Team directory based on user's inputs (watch full demo [here](https://www.youtube.com/watch?v=XXYlFuWEuKI).
