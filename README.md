@@ -26,7 +26,7 @@ $ npm install --save-dev
   
 ## Usage 
 ```typescript
-npm index.js
+node index.js
 ```
   
 ##  License
