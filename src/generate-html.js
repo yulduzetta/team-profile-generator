@@ -9,8 +9,7 @@ const handleManagers = (managers) => {
             <ul class="list-group list-group-flush">
                 <li class="list-group-item card-header">
                     <h4 class="card-title">${name}</h4>
-                    <h5 class="card-text"><i class="fas fa-user-graduate"></i>
-                        Manager</h5>
+                    <h5 class="card-text"><i class="fas fa-mug-hot"></i> Manager</h5>
                 </li>
                 <div class="card-body-wrapper">
                     <li class="list-group-item"><span>ID:</span> ${id}</li>
@@ -33,7 +32,7 @@ const handleEngineers = (engineers) => {
             <ul class="list-group list-group-flush">
                 <li class="list-group-item card-header">
                     <h4 class="card-title">${name}</h4>
-                    <h5 class="card-text"><i class="fas fa-user-graduate"></i>
+                    <h5 class="card-text"><i class="fas fa-glasses"></i>
                         Engineer</h5>
                 </li>
                 <div class="card-body-wrapper">
